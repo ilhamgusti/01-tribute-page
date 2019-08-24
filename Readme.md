@@ -21,6 +21,6 @@ di final project yang pertama ini saya mengambil contoh biodata Ir. Soekarno unt
 
 untuk setiap project akan di deploy ke [surge.sh](https://surge.sh).
 
-[Link for this project](https://surge.sh)
+[Link for this project](http://tribute-page-soekarno-01.surge.sh)
 
 ### Tampilan
